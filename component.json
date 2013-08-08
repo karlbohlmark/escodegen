@@ -4,11 +4,13 @@
   "description": "ECMAScript code generator",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "karlbohlmark/estraverse": "*"
+  },
   "development": {},
   "license": "MIT",
-  "main": "escodegen.browser.js",
+  "main": "escodegen.js",
   "scripts": [
-    "escodegen.browser.js"
+    "escodegen.js"
   ]
 }
