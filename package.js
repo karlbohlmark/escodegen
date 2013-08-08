@@ -1,4 +1,4 @@
-{
+module.exports = {
   "name": "escodegen",
   "description": "ECMAScript code generator",
   "homepage": "http://github.com/Constellation/escodegen.html",

@@ -11,6 +11,7 @@
   "license": "MIT",
   "main": "escodegen.js",
   "scripts": [
-    "escodegen.js"
+    "escodegen.js",
+    "package.js"
   ]
 }
