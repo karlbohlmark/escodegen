@@ -1,0 +1,14 @@
+{
+  "name": "escodegen",
+  "repo": "karlbohlmark/escodegen",
+  "description": "ECMAScript code generator",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "escodegen.browser.js",
+  "scripts": [
+    "escodegen.browser.js"
+  ]
+}
