@@ -2,7 +2,7 @@
   "name": "escodegen",
   "repo": "karlbohlmark/escodegen",
   "description": "ECMAScript code generator",
-  "version": "0.0.1",
+  "version": "0.0.26",
   "keywords": [],
   "dependencies": {
     "karlbohlmark/estraverse": "1.3.1"
